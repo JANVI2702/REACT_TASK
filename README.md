@@ -50,7 +50,7 @@ registrationform/
 ## 📸 Screenshots
 
 📍 *Checkbox Selection Example:*  
-![image]()
+<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/52cd6c60-0b9b-4196-af6f-b0cdef8cb9e7" />
 
 ![image]()
 
